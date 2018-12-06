@@ -84,14 +84,14 @@ header {
 	margin-left: 1em;
 }
 
-.nav ul li a {
-	color: #b1adb3;
+.nav ul a {
+	color: purple;/*#b1adb3;*/
 	text-decoration: none;
 	-webkit-transition: color .4s;
 	transition: color .4s;
 }
 
-.nav ul li a:hover {
+.nav ul a:hover {
 	color: #4aaaa5;
 }
 
@@ -182,7 +182,9 @@ img.headshot {
 	background-color: #4aaaa5;
 	text-align: center;
 }
-
+.pipeSigns {
+    color: #d1d1d1;
+}
 
 /* FOOTER */
 footer {	

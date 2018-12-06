@@ -7,7 +7,7 @@ html, body {
 
 h1, h2 {
 	font-family: 'Georgia', Times, 'Times New Roman', serif;
-	color: #4aaaa5;
+	color: #4c1bd4dc;  /*4aaaa5*/
 	font-weight: bold;
 }
 ul a {
@@ -58,7 +58,7 @@ header {
 	font-weight: bold;
 	font-size: 2em;
 	letter-spacing: 0.04em;
-	background-color: #4aaaa5;
+	background-color: #4f5a79; /*4aaaa5*/
 	color: #ffffff;
 	padding: 1em;
 	width: auto;
